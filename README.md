@@ -6,7 +6,7 @@ I'm a passionate full-stack developer with a strong interest in building web app
 - 💼 Currently, I work as a full-stack developer at ESTORIA TECHNOLOGIES PRIVATE LIMITED.
 - ⚙️ I'm proficient in a range of technologies, including but not limited to:
   - Frontend: HTML, CSS, JavaScript, React, Angular
-  - Backend: Node.js, Express.js, Spring boot
+  - Backend: Node.js, Express.js, Spring boot, Go
   - Databases: PostgreSQL, MongoDB
 - 📫 You can reach me at saaurabhmishra@gmail.com.
 - 🌐 Check out my [Portfolio](https://yourportfolio.com) for some of my work.
