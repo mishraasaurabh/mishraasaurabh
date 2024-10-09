@@ -3,7 +3,7 @@
 I'm a passionate full-stack developer with a strong interest in building web applications that are both functional and user-friendly. I enjoy working with a variety of technologies to bring projects to life. Here's a bit about me:
 
 - 🌱 I'm constantly learning and improving my skills.
-- 💼 Currently, I work as a full-stack developer at ESTORIA TECHNOLOGIES PRIVATE LIMITED.
+- 💼 Currently, I work as a full-stack developer.
 - ⚙️ I'm proficient in a range of technologies, including but not limited to:
   - Frontend: HTML, CSS, JavaScript, React, Angular
   - Backend: Node.js, Express.js, Spring boot, Go
