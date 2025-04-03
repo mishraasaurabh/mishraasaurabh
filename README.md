@@ -15,17 +15,13 @@ I'm a passionate full-stack developer with a strong interest in building web app
 
 ### Tools, Environments, Testing, Other:
 
-| Spring Boot | Git | Docker | Node Js | React | Go | AWS |
-|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="55" height="55"/>|<img src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="HardHat" alt="HardHat" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>|
+| Spring | Git | Docker | Node Js | React | Angular | Go | AWS |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="55" height="55"/>|<img src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>|
 
 <p>    
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnkrana&layout=compact&theme=radical&langs_count=20&exclude_repo=speech-to-text-client">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraasaurabh&layout=compact&theme=radical&langs_count=20&exclude_repo=speech-to-text-client">
 </p>
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishraasaurabh&show_icons=true&count_private=true)
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=mishraasaurabh&style=for-the-badge&color=orange" alt=""/>
